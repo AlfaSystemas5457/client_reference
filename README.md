@@ -3,7 +3,7 @@
 Mueve la referencia del cliente abajo de los terminos de pago.
 
 ## 🚀 Compatible con versiones de Odoo  
-Este módulo es compatible con *Odoo Community 12.0*.
+Este módulo es compatible con *Odoo Community 12.0, 16.0*.
 
 🔗 [Repositorio en GitHub](https://github.com/AlfaSystemas5457/client_reference)
 
